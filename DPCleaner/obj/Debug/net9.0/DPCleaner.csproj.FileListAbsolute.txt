@@ -1,0 +1,17 @@
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\bin\Debug\net9.0\DPCleaner.exe
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\bin\Debug\net9.0\DPCleaner.deps.json
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\bin\Debug\net9.0\DPCleaner.runtimeconfig.json
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\bin\Debug\net9.0\DPCleaner.dll
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\bin\Debug\net9.0\DPCleaner.pdb
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\obj\Debug\net9.0\DPCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\obj\Debug\net9.0\DPCleaner.AssemblyInfoInputs.cache
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\obj\Debug\net9.0\DPCleaner.AssemblyInfo.cs
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\obj\Debug\net9.0\DPCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\obj\Debug\net9.0\DPCleaner.dll
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\obj\Debug\net9.0\refint\DPCleaner.dll
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\obj\Debug\net9.0\DPCleaner.pdb
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\obj\Debug\net9.0\DPCleaner.genruntimeconfig.cache
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\obj\Debug\net9.0\ref\DPCleaner.dll
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\bin\Debug\net9.0\Spectre.Console.dll
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\obj\Debug\net9.0\DPCleaner.csproj.AssemblyReference.cache
+C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\DPCleaner\obj\Debug\net9.0\DPCleaner.csproj.Up2Date
