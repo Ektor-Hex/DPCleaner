@@ -84,13 +84,12 @@ Buenas prácticas:
 
 ## Licencia
 
-Si no hay una licencia en el repo, añade una explícita. Recomiendo MIT si quieres permitir uso amplio:
 
 ```
 MIT License
 Copyright (c) 2025 Ektor-Hex
 ...
-```
+
 
 ---
 
