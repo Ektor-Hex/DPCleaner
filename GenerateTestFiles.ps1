@@ -1,4 +1,4 @@
-$rootPath = "C:\Users\Ektor\Documents\Trae\NGen\DPCleaner\TestZone"
+$rootPath = "\TestZone"
 $targetFile = "@Ekt0r.txt"
 
 # Limpiar si existe
